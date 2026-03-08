@@ -1,0 +1,323 @@
+// ignore: unused_import
+import 'package:intl/intl.dart' as intl;
+import 'app_localizations.dart';
+
+// ignore_for_file: type=lint
+
+/// The translations for Tamil (`ta`).
+class AppLocalizationsTa extends AppLocalizations {
+  AppLocalizationsTa([String locale = 'ta']) : super(locale);
+
+  @override
+  String get appName => 'கால்நடை நுண்ணறிவு';
+
+  @override
+  String welcomeGreeting(Object userName) {
+    return 'வரவேற்பு, $userName';
+  }
+
+  @override
+  String get analyzeHerd => 'உங்கள் மந்தையை பகுப்பாய்வு செய்யவும்';
+
+  @override
+  String get logInButton => 'உள்நுழைய';
+
+  @override
+  String get signUpButton => 'பதிவு செய்க';
+
+  @override
+  String get accountProfile => 'கணக்கு மற்றும் சுயவிவரம்';
+
+  @override
+  String get language => 'மொழி';
+
+  @override
+  String get spotlightHeader => '3D இன கவனக்குவிப்பு';
+
+  @override
+  String get traitsHeader => 'முக்கிய இனங்கள் & பண்புகள்';
+
+  @override
+  String get settingsTitle => 'அமைப்புகள்';
+
+  @override
+  String get manageDetails => 'உங்கள் சந்தா மற்றும் விவரங்களை நிர்வகிக்கவும்';
+
+  @override
+  String get modelInfo => 'மாதிரி மற்றும் தரவுத் தகவல்';
+
+  @override
+  String get privacyPolicy => 'தனியுரிமைக் கொள்கை';
+
+  @override
+  String get changePassword => 'கடவுச்சொல்லை மாற்று';
+
+  @override
+  String get keyTrait => 'முக்கியப் பண்பு';
+
+  @override
+  String get milkYield => 'பால் உற்பத்தி';
+
+  @override
+  String get marketValue => 'சந்தை மதிப்பு';
+
+  @override
+  String get viewDetails => 'விரிவான தரவைக் காண்க';
+
+  @override
+  String get home => 'முகப்பு';
+
+  @override
+  String get classify => 'வகைப்படுத்து';
+
+  @override
+  String get records => 'பதிவுகள்';
+
+  @override
+  String get selectFromGallery => 'கேலரியில் இருந்து தேர்ந்தெடுக்கவும்';
+
+  @override
+  String get captureLiveImage => 'நேரடிப் படத்தை எடுக்கவும்';
+
+  @override
+  String get useAIModel =>
+      'உங்கள் கால்நடைகளை பகுப்பாய்வு செய்ய எங்கள் சக்திவாய்ந்த AI மாதிரியைப் பயன்படுத்தவும்.';
+
+  @override
+  String get chatSupport => 'அரட்டை ஆதரவு';
+
+  @override
+  String get galleryButton => 'கேலரி';
+
+  @override
+  String get cameraButton => 'கேமரா';
+
+  @override
+  String get howToButton => 'எப்படி செய்வது';
+
+  @override
+  String get modelInfoSubtitle =>
+      'எம்எல் மாதிரி பதிப்பு மற்றும் துல்லியத் தரவுகளைக் காண்க';
+
+  @override
+  String get helpSupport => 'உதவி மற்றும் ஆதரவு';
+
+  @override
+  String get helpSupportSubtitle =>
+      'அடிக்கடி கேட்கப்படும் கேள்விகள், ஆவணங்கள் மற்றும் தொடர்பு';
+
+  @override
+  String get personalDetails => 'தனிப்பட்ட விவரங்கள்';
+
+  @override
+  String get displayName => 'காட்சிப் பெயர்';
+
+  @override
+  String get emailReadOnly => 'மின்னஞ்சல் (படிக்க மட்டும்)';
+
+  @override
+  String get newDisplayNameHint => 'புதிய காட்சிப் பெயர்';
+
+  @override
+  String get security => 'பாதுகாப்பு';
+
+  @override
+  String get oldPasswordHint => 'பழைய கடவுச்சொல்';
+
+  @override
+  String get newPasswordHint => 'புதிய கடவுச்சொல் (குறைந்தபட்சம் 6 எழுத்துகள்)';
+
+  @override
+  String get changePasswordButton => 'கடவுச்சொல்லை மாற்று';
+
+  @override
+  String get origin => 'தோற்றம்';
+
+  @override
+  String get helpFaqTitle => 'அடிக்கடி கேட்கப்படும் கேள்விகள்';
+
+  @override
+  String get helpFaq1Question => 'கால்நடை வகைப்பாடு எப்படி வேலை செய்கிறது?';
+
+  @override
+  String get helpFaq1Answer =>
+      'எங்கள் செயலி ஒரு சக்திவாய்ந்த இயந்திர கற்றல் மாதிரியைப் பயன்படுத்துகிறது. விலங்கின் தெளிவான புகைப்படத்தைப் பதிவேற்றவும் அல்லது எடுக்கவும், மாடல் அதன் அம்சங்களை ஆராய்ந்து இனத்தைக் கணிக்கும் மற்றும் சாத்தியமான சுகாதாரப் பிரச்சினைகளைக் கண்டறியும்.';
+
+  @override
+  String get helpFaq2Question =>
+      'எனது தரவு மற்றும் புகைப்படங்கள் பாதுகாப்பானதா?';
+
+  @override
+  String get helpFaq2Answer =>
+      'ஆம். உங்கள் தனியுரிமைக்கு நாங்கள் முன்னுரிமை அளிக்கிறோம். புகைப்படங்கள் எங்கள் பகுப்பாய்வு சேவையகத்திற்குப் பாதுகாப்பாக அனுப்பப்படுகின்றன மற்றும் மூன்றாம் தரப்பினருடன் பகிரப்படுவதில்லை. மேலும் விவரங்களுக்கு எங்கள் தனியுரிமைக் கொள்கையைப் பார்க்கவும்.';
+
+  @override
+  String get helpFaq3Question => 'AI மாடல் எவ்வளவு துல்லியமானது?';
+
+  @override
+  String get helpFaq3Answer =>
+      'எங்கள் மாடல் அதிக துல்லியத்திற்காக கால்நடைகளின் படங்களின் பரந்த தரவுத்தொகுப்பில் பயிற்சி பெற்றது. இருப்பினும், முடிவுகள் ஒரு பூர்வாங்க வழிகாட்டியாகக் கருதப்பட வேண்டும், தொழில்முறை கால்நடை ஆலோசனைக்கு மாற்றாக அல்ல.';
+
+  @override
+  String get helpContactTitle => 'தொடர்பு கொள்ளவும்';
+
+  @override
+  String get helpContactEmailTitle => 'ஆதரவு மின்னஞ்சல்';
+
+  @override
+  String get helpContactEmailAddress => 'support@cattle-intelligence.com';
+
+  @override
+  String get helpContactPhoneTitle => 'ஆதரவு ஹாட்லைன்';
+
+  @override
+  String get helpContactPhoneNumber => '+91-123-456-7890';
+
+  @override
+  String get helpAppVersion => 'செயலி பதிப்பு 1.0.0 (ஹேக்கத்தான் உருவாக்கம்)';
+
+  @override
+  String get privacyTitle => 'கால்நடை நுண்ணறிவுக்கான தனியுரிமைக் கொள்கை';
+
+  @override
+  String get privacyLastUpdated =>
+      'கடைசியாகப் புதுப்பிக்கப்பட்டது: அக்டோபர் 4, 2025';
+
+  @override
+  String get privacySection1Title => '1. நாங்கள் சேகரிக்கும் தகவல்';
+
+  @override
+  String get privacySection1Content =>
+      'நீங்கள் ஒரு கணக்கை உருவாக்கும்போது உங்கள் பெயர் மற்றும் மின்னஞ்சல் போன்ற நீங்கள் எங்களுக்கு நேரடியாக வழங்கும் தகவல்களை நாங்கள் சேகரிக்கிறோம். AI பகுப்பாய்வு நோக்கத்திற்காக நீங்கள் பதிவேற்றும் படங்களையும் நாங்கள் செயலாக்குகிறோம். பயனர் நிர்வாகத்திற்கு Firebase அங்கீகாரத்தைப் பயன்படுத்துகிறோம்.';
+
+  @override
+  String get privacySection2Title =>
+      '2. உங்கள் தகவலை நாங்கள் எவ்வாறு பயன்படுத்துகிறோம்';
+
+  @override
+  String get privacySection2Content =>
+      'நீங்கள் வழங்கும் படங்கள் எங்கள் இயந்திர கற்றல் மாதிரியால் பகுப்பாய்வு செய்ய எங்கள் பாதுகாப்பான சேவையகத்திற்கு அனுப்பப்படுகின்றன. முடிவுகள் உங்கள் சாதனத்திற்குத் திருப்பி அனுப்பப்படும். உங்கள் வெளிப்படையான ஒப்புதல் இல்லாமல் வேறு எந்த நோக்கத்திற்காகவும் உங்கள் படங்களைப் பயன்படுத்துவதில்லை.';
+
+  @override
+  String get privacySection3Title => '3. தரவு பாதுகாப்பு';
+
+  @override
+  String get privacySection3Content =>
+      'உங்கள் தரவை அங்கீகரிக்கப்படாத அணுகலில் இருந்து பாதுகாக்க நியாயமான பாதுகாப்பு நடவடிக்கைகளை நாங்கள் செயல்படுத்துகிறோம். இருப்பினும், எந்த மின்னணு பரிமாற்றமும் அல்லது சேமிப்பகமும் 100% பாதுகாப்பானது அல்ல.';
+
+  @override
+  String get privacySection4Title => '4. மூன்றாம் தரப்பு சேவைகள்';
+
+  @override
+  String get privacySection4Content =>
+      'இந்தச் செயலி அங்கீகாரத்திற்காக Firebase மற்றும் மாடல் ஹோஸ்டிங்கிற்கான கிளவுட் சேவைகள் போன்ற மூன்றாம் தரப்பு சேவைகளைப் பயன்படுத்துகிறது. இந்தச் சேவைகளுக்கு அவற்றின் சொந்த தனியுரிமைக் கொள்கைகள் உள்ளன.';
+
+  @override
+  String get privacySection5Title => '5. எங்களை தொடர்பு கொள்ள';
+
+  @override
+  String get privacySection5Content =>
+      'இந்தத் தனியுரிமைக் கொள்கையைப் பற்றி ஏதேனும் கேள்விகள் இருந்தால், ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು privacy@cattle-intelligence.com இல் ಸಂಪರ್ಕಿಸಿ.';
+
+  @override
+  String get privacyDisclaimer =>
+      'பொறுப்புத் துறப்பு: இது ஒரு ஹேக்கத்தான் திட்டத்திற்கான ஒரு டெம்ப்ளேட் தனியுரிமைக் கொள்கையாகும் மற்றும் சட்டப்பூர்வமாகப் பிணைக்கும் ஆலோசனை அல்ல.';
+
+  @override
+  String get howToTitle => 'செயலியைப் பயன்படுத்துவது எப்படி';
+
+  @override
+  String get howToStep1Title =>
+      'ஒரு படத்தைப் பிடிக்கவும் அல்லது தேர்ந்தெடுக்கவும்';
+
+  @override
+  String get howToStep1Content =>
+      'முகப்புத் திரை அல்லது வகைப்படுத்தல் பக்கத்தில் உள்ள \'கேலரி\' அல்லது \'கேமரா\' பொத்தான்களைத் தட்டவும். சிறந்த முடிவுகளுக்கு கால்நடைகளின் தெளிவான, பக்கவாட்டுக் காட்சியைத் தேர்ந்தெடுக்கவும்.';
+
+  @override
+  String get howToStep2Title => 'படத்தை பகுப்பாய்வு செய்யுங்கள்';
+
+  @override
+  String get howToStep2Content =>
+      'நீங்கள் ஒரு படத்தைத் தேர்ந்தெடுத்ததும், எங்கள் AI மாடல் தானாகவே அதன் அம்சங்கள், வடிவங்கள் மற்றும் உடல் பண்புகளை ஆராய்ந்து இனத்தை அடையாளம் கண்டு சுகாதார குறிகாட்டிகளைச் சரிபார்க்கத் தொடங்கும்.';
+
+  @override
+  String get howToStep3Title => 'முடிவுகளைக் காண்க';
+
+  @override
+  String get howToStep3Content =>
+      'சில கணங்களுக்குப் பிறகு, கணிக்கப்பட்ட கால்நடை இனம், அதன் முக்கிய பண்புகள், மதிப்பிடப்பட்ட பால் உற்பத்தி மற்றும் சந்தை மதிப்பு உள்ளிட்ட விரிவான பகுப்பாய்வைப் பெறுவீர்கள்.';
+
+  @override
+  String get howToStep4Title => 'AI உதவியாளரிடம் கேளுங்கள்';
+
+  @override
+  String get howToStep4Content =>
+      'ஒரு குறிப்பிட்ட இனம், நோய்கள் அல்லது கால்நடை மேலாண்மை பற்றி உங்களுக்கு கூடுதல் கேள்விகள் இருந்தால், எங்கள் அறிவுள்ள AI உதவியாளருடன் பேச \'அரட்டை ஆதரவு\' பொத்தானைத் தட்டவும்.';
+
+  @override
+  String get girName => 'கிர் மாடு';
+
+  @override
+  String get girOrigin => 'குஜராத், இந்தியா';
+
+  @override
+  String get girTrait => 'A2 பால், வெப்பம் தாங்கும் தன்மை';
+
+  @override
+  String get girTraitShort => 'A2 பால் & கடினமானது';
+
+  @override
+  String get girYield => '1500-2000 லி/ஆண்டு';
+
+  @override
+  String get girValue => 'அதிக தேவை';
+
+  @override
+  String get girDescription =>
+      'கிர் என்பது இந்தியாவில் தோன்றிய முக்கிய ஜெபு இனங்களில் ஒன்றாகும். இது பால் உற்பத்தி மற்றும் வெப்பமான வெப்பநிலை மற்றும் வெப்பமண்டல நோய்களை எதிர்க்கும் திறனுக்காக பிரபலமானது. அதன் தனித்துவமான தோற்றத்தில் ஒரு வட்டமான மற்றும் குவிமாடம் கொண்ட நெற்றி மற்றும் நீண்ட, தொங்கும் காதுகள் அடங்கும்.';
+
+  @override
+  String get sahiwalName => 'சாஹிவால்';
+
+  @override
+  String get sahiwalOrigin => 'பஞ்சாப், இந்தியா/பாகிஸ்தான்';
+
+  @override
+  String get sahiwalTrait => 'அதிக பால் உற்பத்தி, சாந்தமான குணம்';
+
+  @override
+  String get sahiwalTraitShort => 'அதிக பால் உற்பத்தி';
+
+  @override
+  String get sahiwalYield => '2000-2500 லி/ஆண்டு';
+
+  @override
+  String get sahiwalValue => 'மிக அதிகம்';
+
+  @override
+  String get sahiwalDescription =>
+      'சாஹிவால் என்பது ஜெபு மாட்டின் ஒரு இனமாகும், இது பாகிஸ்தானின் பஞ்சாபில் உள்ள சாஹிவால் மாவட்டத்தின் பெயரிடப்பட்டது. அதன் அதிக பால் உற்பத்தி மற்றும் சிறிய, வேகமாக வளரும் கன்றுகளை ஈனும் திறன் காரணமாக இது பிராந்தியத்தின் சிறந்த பால் இனங்களில் ஒன்றாகக் கருதப்படுகிறது. இது அதன் சிவப்பு-பழுப்பு நிறம் மற்றும் சாந்தமான குணத்திற்காக அறியப்படுகிறது.';
+
+  @override
+  String get murrahName => 'முர்ரா எருமை';
+
+  @override
+  String get murrahOrigin => 'ஹரியானா, இந்தியா';
+
+  @override
+  String get murrahTrait => 'அதிகபட்ச பால் கொழுப்பு உள்ளடக்கம்';
+
+  @override
+  String get murrahTraitShort => 'அதிக கொழுப்பு பால்';
+
+  @override
+  String get murrahYield => '1800-2500 லி/ஆண்டு';
+
+  @override
+  String get murrahValue => 'உயர்தர பால் விலங்கு';
+
+  @override
+  String get murrahDescription =>
+      'முர்ரா எருமை என்பது நீர் எருமையின் ஒரு இனமாகும், இது முக்கியமாக இந்திய மாநிலங்களான ஹரியானா மற்றும் பஞ்சாபில் காணப்படுகிறது. இது பால் உற்பத்திக்காக வளர்க்கப்படுகிறது மற்றும் பெரும்பாலும் இந்தியாவின் \'கருப்பு தங்கம்\' என்று அழைக்கப்படுகிறது. அதன் பாலில் மிக அதிக கொழுப்புச் சத்து உள்ளது, இது நெய் மற்றும் வெண்ணெய் போன்ற பிரீமியம் பால் பொருட்களை உற்பத்தி செய்வதற்கு ஏற்றது.';
+}

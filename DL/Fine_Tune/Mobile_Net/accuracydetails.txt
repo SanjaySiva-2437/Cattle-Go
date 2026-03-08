@@ -1,0 +1,54 @@
+#finetunedv0
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 29s 512ms/step - accuracy: 0.4791 - loss: 2.0096
+    Test Accuracy: 47.91%
+    Test Loss: 2.0096
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#finetunedv0+
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 503ms/step - accuracy: 0.4589 - loss: 2.4649
+    Test Accuracy: 45.89%
+    Test Loss: 2.4649
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#finetunedv3
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 505ms/step - accuracy: 0.4386 - loss: 2.5193
+    Test Accuracy: 43.86%
+    Test Loss: 2.5193
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#finetunev5
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 506ms/step - accuracy: 0.4983 - loss: 2.3938
+    Test Accuracy: 49.83%
+    Test Loss: 2.3938
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#finetunedv5+
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 29s 520ms/step - accuracy: 0.4961 - loss: 2.3833
+    Test Accuracy: 49.61%
+    Test Loss: 2.3833
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+    #HIGHEST RECORDED
+        28/28 ━━━━━━━━━━━━━━━━━━━━ 13s 493ms/step - accuracy: 0.5017 - loss: 2.3876
+        Test Accuracy: 50.17%
+        Test Loss: 2.3876
+        Class indices saved as 'class_indices.json'
+#mixupv6_final
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 507ms/step - accuracy: 0.5051 - loss: 2.4032
+    Test Accuracy: 50.51%
+    Test Loss: 2.4032
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#finetunedv5pro
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 30s 551ms/step - accuracy: 0.5118 - loss: 2.0819
+    Test Accuracy: 51.18%
+    Test Loss: 2.0819
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#mixupv6_best
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 504ms/step - accuracy: 0.5051 - loss: 2.4030
+    Test Accuracy: 50.51%
+    Test Loss: 2.4030
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+#v5promax
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 28s 503ms/step - accuracy: 0.5265 - loss: 2.3107
+    Test Accuracy: 52.65%
+    Test Loss: 2.3107
+    1/1 ━━━━━━━━━━━━━━━━━━━━ 6s 6s/step
+
+    28/28 ━━━━━━━━━━━━━━━━━━━━ 13s 490ms/step - accuracy: 0.5197 - loss: 1.9961
+    Test Accuracy: 51.97%
+    Test Loss: 1.9961
