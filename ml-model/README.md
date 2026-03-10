@@ -1,4 +1,4 @@
-# 🐄 CattleGo — Cattle Breed Identification via Computer Vision
+# CattleGo — Cattle Breed Identification via Computer Vision
 
 > Automated Indian cattle breed classification using transfer learning, built for mobile-scale inference.
 
@@ -153,15 +153,16 @@ Augmentation was critical for improving robustness across natural variation in r
 ## Project Structure
 
 ```
-ml/
-├── data/                   # Dataset and preprocessing scripts
-├── models/                 # Saved model checkpoints
-├── notebooks/              # Training and evaluation notebooks
-├── images/
-│   ├── training/           # Stage-wise training curves (stage1–4.png)
-│   ├── evaluation/         # confusion_matrix.png
-│   └── dataset_samples/    # Example breed images
-├── inference/              # Inference pipeline + API integration
+ml-model/
+├── assets/                        # Static assets (icons, sample images)
+├── data_preparation/
+│   └── data_prep/                 # Dataset preprocessing scripts
+├── evaluation/
+│   └── Graphs/                    # Confusion matrix and evaluation plots
+├── images/                        # Training curve images for README
+├── inference/                     # Inference pipeline + API integration
+├── training/
+│   └── Fine_Tune/                 # Stage-wise fine-tuning scripts
 └── README.md
 ```
 
