@@ -59,7 +59,7 @@ The app communicates with a FastAPI backend (serving the MobileNetV2 classificat
 ### Breed Classification
 | Classify | Breeds List | Breed Info |
 |----------|-------------|------------|
-| ![Classify](screenshots/classify_page.jpg) | ![Breeds](screenshots/Breeds_page2.jpg) | ![Info](assets/screenshots/breed_info.png) |
+| ![Classify](screenshots/classify_page.jpg) | ![Breeds](screenshots/Breeds_page2.jpg) | ![Analysis](screenshots/analysis_page.jpeg) |
 
 ### Chatbot & Utilities
 | Chatbot | How To Use | Language |
