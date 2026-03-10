@@ -54,17 +54,17 @@ The app communicates with a FastAPI backend (serving the MobileNetV2 classificat
 ### Home & Settings
 | Home | Settings | Profile |
 |------|----------|---------|
-| ![Home](screenshots/Home_Page.jpg) | ![Settings](screenshots/settings_page.jpg) | ![Profile](assets/screenshots/profile.png) |
+| ![Home](screenshots/Home_Page.jpg) | ![Settings](screenshots/settings_page.jpg) | ![Profile](screenshots/Profile_page.jpeg) |
 
 ### Breed Classification
 | Classify | Breeds List | Breed Info |
 |----------|-------------|------------|
-| ![Classify](assets/screenshots/classify.png) | ![Breeds](assets/screenshots/breeds.png) | ![Info](assets/screenshots/breed_info.png) |
+| ![Classify](screenshots/classify_page.jpg) | ![Breeds](screenshots/Breeds_page2.jpg) | ![Info](assets/screenshots/breed_info.png) |
 
 ### Chatbot & Utilities
 | Chatbot | How To Use | Language |
 |---------|------------|----------|
-| ![Chatbot](assets/screenshots/chatbot.png) | ![How To](assets/screenshots/howto.png) | ![Language](assets/screenshots/language.png) |
+| ![Chatbot](screenshots/Rag_Chatbot_Page.jpg) | ![How To](screenshots/How_to_page.jpg) | ![Language](screenshots/App_Language_Page.jpg) |
 
 ---
 
