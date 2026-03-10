@@ -49,22 +49,22 @@ The app communicates with a FastAPI backend (serving the MobileNetV2 classificat
 ### Authentication
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In](screenshots/Sign_In_Page.jpg) | ![Sign Up](screenshots/Sign_Up_Page.jpg) |
+| ![Sign In](../screenshots/Sign_In_Page.jpg) | ![Sign Up](../screenshots/Sign_Up_Page.jpg) |
 
 ### Home & Settings
 | Home | Settings | Profile |
 |------|----------|---------|
-| ![Home](screenshots/Home_Page.jpg) | ![Settings](screenshots/settings_page.jpg) | ![Profile](screenshots/Profile_page.jpeg) |
+| ![Home](../screenshots/Home_Page.jpg) | ![Settings](../screenshots/settings_page.jpg) | ![Profile](../screenshots/Profile_page.jpeg) |
 
 ### Breed Classification
 | Classify | Breeds List | Breed Info |
 |----------|-------------|------------|
-| ![Classify](screenshots/classify_page.jpg) | ![Breeds](screenshots/Breeds_page2.jpg) | ![Analysis](screenshots/analysis_page.jpeg) |
+| ![Classify](../screenshots/classify_page.jpg) | ![Breeds](../screenshots/Breeds_page2.jpg) | ![Analysis](../screenshots/analysis_page.jpeg) |
 
 ### Chatbot & Utilities
 | Chatbot | How To Use | Language |
 |---------|------------|----------|
-| ![Chatbot](screenshots/Rag_Chatbot_Page.jpg) | ![How To](screenshots/How_to_page.jpg) | ![Language](screenshots/App_Language_Page.jpg) |
+| ![Chatbot](../screenshots/Rag_Chatbot_Page.jpg) | ![How To](../screenshots/How_to_page.jpg) | ![Language](../screenshots/App_Language_Page.jpg) |
 
 ---
 
