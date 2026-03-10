@@ -49,12 +49,12 @@ The app communicates with a FastAPI backend (serving the MobileNetV2 classificat
 ### Authentication
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In](assets/screenshots/signin.png) | ![Sign Up](assets/screenshots/signup.png) |
+| ![Sign In](screenshots/Sign_In_Page.jpg) | ![Sign Up](screenshots/Sign_Up_Page.jpg) |
 
 ### Home & Settings
 | Home | Settings | Profile |
 |------|----------|---------|
-| ![Home](assets/screenshots/home.png) | ![Settings](assets/screenshots/settings.png) | ![Profile](assets/screenshots/profile.png) |
+| ![Home](screenshots/Home_Page.jpg) | ![Settings](screenshots/settings_page.jpg) | ![Profile](assets/screenshots/profile.png) |
 
 ### Breed Classification
 | Classify | Breeds List | Breed Info |
